@@ -1,0 +1,4 @@
+configparser*
+pytesseract*
+pillow*
+PyQt5*
